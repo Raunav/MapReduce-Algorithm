@@ -46,11 +46,6 @@ This project utilizes the MapReduce algorithm to analyze a dataset of over 2,500
 2. Place the `fradulent emails.txt` file in the project directory.
 3. Open and execute the provided Jupyter Notebook in any Python environment.
 
-## Files Included
-
-- **Notebook:** `Project1.ipynb`
-- **Dataset:** Not included; download from Kaggle.
-
 ## Visualizations
 
 - Bar chart of top 20 frequent words.
